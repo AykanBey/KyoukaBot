@@ -1,2 +1,1 @@
-Discord Bot @Aykan tarafından oluşturulmuştur.
-Artık görevine son verilmiştir.
+Discord v8 için türkçe bot
